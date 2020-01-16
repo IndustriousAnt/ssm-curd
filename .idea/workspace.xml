@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0f20e8a-7bab-4daf-9d0e-ec833453b54c" name="Default Changelist" comment="" />
+    <list default="true" id="d0f20e8a-7bab-4daf-9d0e-ec833453b54c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ssm_curd.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -419,7 +421,7 @@
       <workItem from="1578969229474" duration="28968000" />
       <workItem from="1579055111992" duration="25541000" />
       <workItem from="1579096870480" duration="42000" />
-      <workItem from="1579140196471" duration="23161000" />
+      <workItem from="1579140196471" duration="23735000" />
     </task>
     <servers />
   </component>
